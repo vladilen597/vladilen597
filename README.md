@@ -11,5 +11,4 @@ Hi! I am a FrontEnd developer who loves to create beautiful and convenient websi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vladilen597&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladilen597&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
